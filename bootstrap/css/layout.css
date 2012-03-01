@@ -1,0 +1,6 @@
+.navbar form#SearchForm_SearchForm legend { display: none !important } 
+.navbar form#SearchForm_SearchForm { float: right; }
+.navbar form#SearchForm_SearchForm * {
+    display: inline !important;
+    margin-bottom: 0px;
+}
