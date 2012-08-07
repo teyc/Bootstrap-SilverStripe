@@ -74,20 +74,9 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="$ThemeDir/js/jquery.js"></script>
-    <script src="$ThemeDir/js/bootstrap-transition.js"></script>
-    <script src="$ThemeDir/js/bootstrap-alert.js"></script>
-    <script src="$ThemeDir/js/bootstrap-modal.js"></script>
-    <script src="$ThemeDir/js/bootstrap-dropdown.js"></script>
-    <script src="$ThemeDir/js/bootstrap-scrollspy.js"></script>
-    <script src="$ThemeDir/js/bootstrap-tab.js"></script>
-    <script src="$ThemeDir/js/bootstrap-tooltip.js"></script>
-    <script src="$ThemeDir/js/bootstrap-popover.js"></script>
-    <script src="$ThemeDir/js/bootstrap-button.js"></script>
-    <script src="$ThemeDir/js/bootstrap-collapse.js"></script>
-    <script src="$ThemeDir/js/bootstrap-carousel.js"></script>
-    <script src="$ThemeDir/js/bootstrap-typeahead.js"></script>
-
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+  <script type="text/javascript">window.jQuery || document.write('<script src="/themes/importexport/js/jquery-1.7.2.js"><\/script>')</script>
+    <script src="$ThemeDir/js/bootstrap.min.js"></script>
   </body>
 </html>
 
