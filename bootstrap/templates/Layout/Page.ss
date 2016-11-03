@@ -4,9 +4,11 @@
     </div>
 
     <div class="span9">
-    <h1>$title</h1>
-    $Content
-    $Form
-    $PageComments
+        <div class="page-header">
+            <h1>$Title</h1>
+        </div>
+        $Content
+        $Form
+        $PageComments
     </div>
 </div>
